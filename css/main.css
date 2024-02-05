@@ -1,0 +1,3 @@
+header img.object-fit-cover {
+    filter: invert(20%) saturate(90%);
+}
